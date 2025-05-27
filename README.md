@@ -41,6 +41,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+     <img src="https://cdn-icons-png.flaticon.com/512/2907/2907997.png" title="Networking" alt="Networking" width="60" height="60"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Dialogflow_Logo.png" title="Chatbots (Dialogflow)" alt="Chatbots" width="60" height="60"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/2983/2983867.png" title="CEH" alt="CEH" width="60" height="60"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raspberry_Pi_Logo.svg/2048px-Raspberry_Pi_Logo.svg.png" title="Raspberry Pi" alt="Hardware" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
   </div>
 </div>
 
