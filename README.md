@@ -18,7 +18,7 @@
 
   🙋‍♂️ Hi, I'm Dhrumil Trivedi! Welcome to my GitHub profile!
 
-  🎓 Currently pursuing MCA at Charusat University 🎓
+  🎓 Master's of Computer Application Graduated 🎓
 
   🧠 Passionate about coding, building efficient solutions, and solving real-world problems 🧠
 
