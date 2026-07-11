@@ -46,25 +46,3 @@
 </div>
 
 <br>
-<div align="center">
-  <h1> STATS </h1>
-
-  [![Dhrumil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drtrivedi05&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>  
-
-<br>
-<div align="center">
-  <h1> STREAK </h1>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drtrivedi05&theme=transparent)](https://git.io/streak-stats)
-  
-</div>
-  
-<br>
-<div align="center">  
-  <h1> TOP LANGUAGES USED </h1>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drtrivedi05&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
