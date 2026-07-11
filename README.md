@@ -9,7 +9,7 @@
 </div>
 
 <div id="pviews" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Drtrivedi05&style=flat&color=blue" height="20px" width="110px" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=dhrumiltrivedi&style=flat&color=blue" height="20px" width="110px" align="center"/>
 </div>
 
 <br>
